@@ -7,23 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 
 </p>
-<style>
-    .badge-light {
-    color: #212529;
-    background-color: #f8f9fa;
-}
- .badge {
-    display: inline-block;
-    padding: .25em .4em;
-    font-size: 75%;
-    font-weight: 700;
-    line-height: 1;
-    text-align: center;
-    white-space: nowrap;
-    vertical-align: baseline;
-    border-radius: .25rem;
-}
-</style>
+
 
 ## Installation
  - Clone the repo git clone (https://github.com/zinmyoswe/multiuse.git).
@@ -37,6 +21,7 @@
  - Run npm run watch
  - Run php artisan passport:install
  - Done Enjoy!!! multipurpose of application
+  
 
 ## About Laravel
 
