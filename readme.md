@@ -10,7 +10,7 @@
 ## Installation
  - Clone the repo git clone (https://github.com/zinmyoswe/multiuse.git).
  - cd to Project Folder
- - Run composer install
+ - Run <span class="badge badge-light">composer install </span>
  - Save as .env.example to .env and set your database information
  - Run php artisan key:generate
  - Run npm install
