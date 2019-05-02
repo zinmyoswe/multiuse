@@ -17,8 +17,8 @@
  - Run <span class="badge badge-light">composer install </span>
  - Save as .env.example to .env and set your database information
  - Run php artisan key:generate
- - Run 'npm install'
- - Run php artisan migrate
+ - Run `npm install`
+ - Run `php artisan migrate`
  - Run php artisan serve
  - Run npm run watch
  - Run php artisan passport:install
