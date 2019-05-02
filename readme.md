@@ -22,7 +22,7 @@
  - Run `php artisan serve`
  - Run `npm run watch`
  - Run `php artisan passport:install`
- - Done `Enjoy!!! multipurpose of application`
+ - Done Enjoy!!! multipurpose of application
   
 
 ## License
