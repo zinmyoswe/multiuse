@@ -9,8 +9,11 @@
 </p>
 
 ![multiuse](https://user-images.githubusercontent.com/29988949/57055636-81f55300-6c51-11e9-8a60-9946d448fc03.PNG)
-
-
+`Profile Page`
+![image](https://user-images.githubusercontent.com/29988949/57288630-b2ccf200-706e-11e9-9d2e-e5ae473df4ec.png)
+`Update Alert`
+![image](https://user-images.githubusercontent.com/29988949/57288686-cc6e3980-706e-11e9-8122-2f48ed5893f5.png)
+`Delete Confirmation Alert`
 ## Installation
  - Clone the repo git clone (https://github.com/zinmyoswe/multiuse.git).
  - `cd` to Project Folder
