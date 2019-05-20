@@ -14,6 +14,8 @@
 `Update Alert`
 ![image](https://user-images.githubusercontent.com/29988949/57288686-cc6e3980-706e-11e9-8122-2f48ed5893f5.png)
 `Delete Confirmation Alert`
+![image](https://user-images.githubusercontent.com/29988949/58012355-22000880-7aa9-11e9-8d71-e6419f6b65e4.png)
+`404 Error Page`
 ## Installation
  - Clone the repo git clone (https://github.com/zinmyoswe/multiuse.git).
  - `cd` to Project Folder
